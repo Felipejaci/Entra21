@@ -1,0 +1,15 @@
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\bin\Debug\WinFormExecs2.exe.config
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\bin\Debug\WinFormExecs2.exe
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\bin\Debug\WinFormExecs2.pdb
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.csprojAssemblyReference.cache
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.Exec02.resources
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.Form1.resources
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.Properties.Resources.resources
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.csproj.GenerateResource.cache
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.csproj.CoreCompileInputs.cache
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.exe
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.pdb
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.Exec03.resources
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.Exec01.resources
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.WinForm04Exec02.resources
+C:\Users\felipe.jacinto\source\repos\WinFormExecs2\obj\Debug\WinFormExecs2.Exec03WinForm05.resources
