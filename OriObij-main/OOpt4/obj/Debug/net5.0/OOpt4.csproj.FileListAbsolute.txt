@@ -1,0 +1,16 @@
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\OOpt4.exe
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\OOpt4.deps.json
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\OOpt4.runtimeconfig.json
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\OOpt4.runtimeconfig.dev.json
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\OOpt4.dll
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\ref\OOpt4.dll
+C:\Users\felipe.jacinto\source\repos\OOpt4\bin\Debug\net5.0\OOpt4.pdb
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.csprojAssemblyReference.cache
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.AssemblyInfoInputs.cache
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.AssemblyInfo.cs
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.csproj.CoreCompileInputs.cache
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.dll
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\ref\OOpt4.dll
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.pdb
+C:\Users\felipe.jacinto\source\repos\OOpt4\obj\Debug\net5.0\OOpt4.genruntimeconfig.cache
